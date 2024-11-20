@@ -1,0 +1,4 @@
+isPatient,id,password,name,gender,dob,bloodType,contactNumber,email
+true,P1003,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,Charlie White,Male,1990-08-07,O-,912345676,charlie.white@example.com
+true,P1001,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,Alice Brown,Female,1980-05-14,A+,91234567,alicewhite@gmail.com
+true,P1002,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,Bob Stone,Male,1975-11-22,B+,912345677,bob.stone@example.com
