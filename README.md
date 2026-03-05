@@ -193,11 +193,3 @@ cd sc2002/Project/src
 javac Main.java
 java Main
 ```
-
-## Future Enhancements
-
-Currently in progress - GUI development planned for the application to replace console-based interface with graphical user interface components.
-
-## Author
-
-SC2002 Object-Oriented Programming Project
